@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cubus\\source\\repos\\TesteCubusForm\\TesteCubusForm\\TesteCubusForm.csproj": {}
+    "C:\\Users\\T-GAMER\\source\\repos\\FelipeGreghi-TesteCubus-.NET\\TesteCubusForm\\TesteCubusForm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cubus\\source\\repos\\TesteCubusForm\\TesteCubusForm\\TesteCubusForm.csproj": {
+    "C:\\Users\\T-GAMER\\source\\repos\\FelipeGreghi-TesteCubus-.NET\\TesteCubusForm\\TesteCubusForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cubus\\source\\repos\\TesteCubusForm\\TesteCubusForm\\TesteCubusForm.csproj",
+        "projectUniqueName": "C:\\Users\\T-GAMER\\source\\repos\\FelipeGreghi-TesteCubus-.NET\\TesteCubusForm\\TesteCubusForm.csproj",
         "projectName": "TesteCubusForm",
-        "projectPath": "C:\\Users\\cubus\\source\\repos\\TesteCubusForm\\TesteCubusForm\\TesteCubusForm.csproj",
-        "packagesPath": "C:\\Users\\cubus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cubus\\source\\repos\\TesteCubusForm\\TesteCubusForm\\obj\\",
+        "projectPath": "C:\\Users\\T-GAMER\\source\\repos\\FelipeGreghi-TesteCubus-.NET\\TesteCubusForm\\TesteCubusForm.csproj",
+        "packagesPath": "C:\\Users\\T-GAMER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\T-GAMER\\source\\repos\\FelipeGreghi-TesteCubus-.NET\\TesteCubusForm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cubus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\T-GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

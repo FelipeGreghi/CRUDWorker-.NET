@@ -14,6 +14,7 @@ namespace TesteCubusForm.Data
 
             //string strConn = "server=127.0.0.1;userid=root;database=enfermagemdb";//RegEx
 
+            
             string strConn = @"Server=192.168.0.254 ;Database=treinamento;User Id=treinamento;Password=@Treina@#Cubus;";
             SqlConnection cn = new SqlConnection(strConn);
             return cn;
